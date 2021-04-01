@@ -1,0 +1,8 @@
+
+1. Create array of object using students (name , age, standard, marks and gender)
+
+2. Find gender is female.
+
+3. List out the student in table .
+
+4. Apply the colors to the table using js code.
